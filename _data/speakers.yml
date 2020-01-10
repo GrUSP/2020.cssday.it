@@ -4,10 +4,12 @@ call_for_paper_url: https://goo.gl/forms/jOzpXYpAZCsE4oH82
 call_for_paper: true
 show_speakers: false
 list:
- # -
- #   id: Marco-Cedaro
- #   description:
- #   image: marco-cedaro.jpg
- #   first_name: Marco
- #   last_name: 	Cedaro
- #   twitter: cedmax
+  -
+    id: antonio-dellava
+    description: Frontend developer presso Flowing. 
+    Ha un background da interaction designer, appassionato dei principi agili, è anche uno degli organizzatori del MUG (marca user group). 
+    Nel tempo libero lo puoi sempre trovare in sella ad una bici 🚲.
+    image: antonio-dellava.jpg
+    first_name: Antonio
+    last_name: 	Dell'Ava
+    twitter: creativecaos
